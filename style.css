@@ -1,0 +1,20 @@
+.con{
+    text-align: center;
+}
+
+.box{
+  
+    margin:auto;
+    width: 500px;
+    height: 500px; 
+    width: 50%;
+
+    border: 2px solid black;
+}
+.btn{
+    margin-bottom: 20px;
+}
+
+.b1{
+    margin-bottom: 10px;
+}
